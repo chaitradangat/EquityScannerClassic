@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EquityScannerClassic.UI", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EquityScanner.Application", "EquityScanner.Application\EquityScanner.Application.csproj", "{94520789-DC55-4DC2-A36C-5000026F2300}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EquityScannerClassic.WebQueries", "EquityScannerClassic.WebQueries\EquityScannerClassic.WebQueries.csproj", "{373B6AC4-23B6-4C26-B741-627A27D5D2A2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{94520789-DC55-4DC2-A36C-5000026F2300}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{94520789-DC55-4DC2-A36C-5000026F2300}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{94520789-DC55-4DC2-A36C-5000026F2300}.Release|Any CPU.Build.0 = Release|Any CPU
+		{373B6AC4-23B6-4C26-B741-627A27D5D2A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{373B6AC4-23B6-4C26-B741-627A27D5D2A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{373B6AC4-23B6-4C26-B741-627A27D5D2A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{373B6AC4-23B6-4C26-B741-627A27D5D2A2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
