@@ -5,7 +5,7 @@ VisualStudioVersion = 15.0.28010.2050
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EquityScannerClassic.UI", "EquityScannerClassic.UI\EquityScannerClassic.UI.csproj", "{7F32415F-06D3-404F-82DD-C5BEF13B0267}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EquityScanner.Application", "EquityScanner.Application\EquityScanner.Application.csproj", "{94520789-DC55-4DC2-A36C-5000026F2300}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EquityScannerClassic.Application", "EquityScanner.Application\EquityScannerClassic.Application.csproj", "{94520789-DC55-4DC2-A36C-5000026F2300}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EquityScannerClassic.WebQueries", "EquityScannerClassic.WebQueries\EquityScannerClassic.WebQueries.csproj", "{373B6AC4-23B6-4C26-B741-627A27D5D2A2}"
 EndProject

@@ -76,7 +76,19 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <None Include="App.config" />
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\EquityScanner.Application\EquityScannerClassic.Application.csproj">
+      <Project>{94520789-dc55-4dc2-a36c-5000026f2300}</Project>
+      <Name>EquityScannerClassic.Application</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\EquityScannerClassic.WebQueries\EquityScannerClassic.WebQueries.csproj">
+      <Project>{373b6ac4-23b6-4c26-b741-627a27d5d2a2}</Project>
+      <Name>EquityScannerClassic.WebQueries</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
